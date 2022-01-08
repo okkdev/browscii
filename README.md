@@ -2,6 +2,8 @@
 
 useless little service to view websites as ascii screenshot in the terminal
 
+![Screenshot](screenshot.png)
+
 ## Usage
 
 `curl` the service and add the site you want to see as `url` query:
