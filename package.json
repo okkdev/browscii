@@ -1,0 +1,14 @@
+{
+  "name": "browscii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "asciify-image": "^0.1.8",
+    "express": "^4.17.2",
+    "puppeteer": "^13.0.1"
+  }
+}
